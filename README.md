@@ -1,22 +1,22 @@
 # carolpr8.github.io
 # Portfolio de Carolina Rodríguez - DAM
 
-¡Hola! 👋 Soy **Carolina Rodríguez**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el primer curso de DAM. Está diseñado para prácticas o futuro empleo en desarrollo de aplicaciones y programación.
+¡Hola! Soy **Carolina Rodríguez**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el curso de DAM. Está diseñado para prácticas o futuro empleo en desarrollo de aplicaciones y programación.
 
 ---
 
-## 🖥️ Sobre mí
+## Sobre mí
 
-- Estudiante de **DAM** con conocimientos en **Java, SQL, Android Studio, HTML, CSS y Git**.  
-- Apasionada por el desarrollo de aplicaciones y la programación orientada a objetos.  
+- Estudiante de **DAM** con conocimientos en **Desarrollo web (Front & Back) | Java · JavaScript · React · HTML · CSS**.  
+- Apasionada por el desarrollo de aplicaciones multiplataforma y la programación orientada a objetos.  
 - Busco oportunidades para aplicar mis conocimientos y seguir aprendiendo.
 
 ---
 
-## 💡 Habilidades
+## Habilidades
 
-- **Lenguajes y Frameworks:** Java, SQL, HTML, CSS, JavaScript básico.  
+- **Lenguajes y Frameworks:** Java, SQL, HTML, CSS, JavaScript básico, React.  
 - **Desarrollo de aplicaciones:** Android Studio, aplicaciones de escritorio Java.  
 - **Gestión de versiones:** Git & GitHub.  
 - **Bases de datos y persistencia:** SQL, ficheros planos y de registro.  
@@ -24,7 +24,7 @@ Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el prim
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
 ### 1. Gestor de Tareas (Java + SQL)
 - Descripción: Aplicación de escritorio que permite crear, actualizar y eliminar tareas con persistencia en base de datos SQL.  
@@ -44,7 +44,7 @@ Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el prim
 
 ---
 
-## 🕒 Mi Aprendizaje en DAM
+## Mi Aprendizaje en DAM
 
 - **Java Básico:** variables, estructuras de control, arrays, bucles y POO.  
 - **SQL y Bases de Datos:** creación de tablas, consultas, inserciones y relaciones.  
@@ -54,7 +54,7 @@ Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el prim
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 - **Email:** [carolinapozosc@gmail.com](mailto:carolinapozosc@gmail.com)  
 - **LinkedIn:** [Carolina Rodríguez](https://www.linkedin.com/in/CarolRodriguez8)  
