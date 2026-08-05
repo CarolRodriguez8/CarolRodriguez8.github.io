@@ -26,13 +26,13 @@ Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el curs
 
 ## Proyectos
 
-### 1. Gestor de Tareas (Java + SQL)
-- Descripción: Aplicación de escritorio que permite crear, actualizar y eliminar tareas con persistencia en base de datos SQL.  
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/gestor-tareas-java)
+### 1. ClinicaApp (Java + SQL + Spring Boot + Git + Docker +Postman)
+- Descripción: Sistema de Gestión Clínica.  
+- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/ClinicaApp)
 
-### 2. Agenda de Contactos (Java + Ficheros)
-- Descripción: Programa en Java que guarda contactos en ficheros de registro, con búsqueda y edición de datos.  
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/agenda-contactos-java)
+### 2. SmartTrip AI 
+- Descripción: Aplicación inteligente que ayuda a planificar viajes personalizados utilizando inteligencia artificial.
+- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/smarttrip-ai)
 
 ### 3. App Android de Notas
 - Descripción: Aplicación Android básica para tomar notas, con almacenamiento local y diseño intuitivo.  
