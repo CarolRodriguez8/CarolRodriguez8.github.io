@@ -1,64 +1,121 @@
-# carolpr8.github.io
-# Portfolio de Carolina Rodríguez - DAM
+# Portfolio de Carolina Pozo Rodríguez
 
-¡Hola! Soy **Carolina Pozo Rodríguez**, estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Este portfolio muestra mis proyectos, habilidades y aprendizajes durante el curso de DAM. Está diseñado para prácticas o futuro empleo en desarrollo de aplicaciones y programación.
+Bienvenido a mi portfolio de GitHub.
 
----
+Soy desarrolladora de software especializada en **Desarrollo de Aplicaciones Multiplataforma**, con experiencia en el desarrollo de aplicaciones de escritorio, aplicaciones web y proyectos Android. En este repositorio recopilo los proyectos que reflejan mi evolución técnica, mi forma de trabajar y las tecnologías con las que desarrollo soluciones.
 
-## Sobre mí
-
-- Estudiante de **DAM** con conocimientos en **Desarrollo web (Front & Back) | Java · JavaScript · React · HTML · CSS**.  
-- Apasionada por el desarrollo de aplicaciones multiplataforma y la programación orientada a objetos.  
-- Busco oportunidades para aplicar mis conocimientos y seguir aprendiendo.
+Mi objetivo es incorporarme al sector del desarrollo de software, aportando una combinación de capacidad técnica, experiencia profesional previa y una sólida actitud de aprendizaje continuo.
 
 ---
 
-## Habilidades
+# Perfil profesional
 
-- **Lenguajes y Frameworks:** Java, SQL, HTML, CSS, JavaScript básico, React.  
-- **Desarrollo de aplicaciones:** Android Studio, aplicaciones de escritorio Java.  
-- **Gestión de versiones:** Git & GitHub.  
-- **Bases de datos y persistencia:** SQL, ficheros planos y de registro.  
-- **Conceptos de programación:** Orientación a objetos, estructuras de control, bucles, arrays.  
-
----
-
-## Proyectos
-
-### 1. ClinicaApp (Java + SQL + Spring Boot + Git + Docker +Postman)
-- Descripción: Sistema de Gestión Clínica.  
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/ClinicaApp)
-
-### 2. SmartTrip AI 
-- Descripción: Aplicación inteligente que ayuda a planificar viajes personalizados utilizando inteligencia artificial.
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/smarttrip-ai)
-
-### 3. App Android de Notas
-- Descripción: Aplicación Android básica para tomar notas, con almacenamiento local y diseño intuitivo.  
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/app-notas-android)
-
-### 4. Portfolio Web Personal
-- Descripción: Mi portfolio web responsivo desarrollado en HTML, CSS y JavaScript, mostrando proyectos y habilidades.  
-- Código: [Repositorio en GitHub](https://github.com/CarolRodriguez8/portfolio-web)
+* Desarrollo de aplicaciones con **Java**.
+* Desarrollo web con **HTML, CSS, JavaScript y React**.
+* Diseño e implementación de bases de datos relacionales con **SQL**.
+* Desarrollo de APIs y aplicaciones backend con **Spring Boot**.
+* Control de versiones con **Git** y **GitHub**.
+* Interés por el desarrollo de aplicaciones escalables, el código limpio y las buenas prácticas de programación.
 
 ---
 
-## Mi Aprendizaje en DAM
+# Tecnologías
 
-- **Java Básico:** variables, estructuras de control, arrays, bucles y POO.  
-- **SQL y Bases de Datos:** creación de tablas, consultas, inserciones y relaciones.  
-- **Android Studio Básico:** desarrollo de apps simples, layouts, almacenamiento local y diseño responsivo.  
-- **HTML, CSS y JavaScript:** construcción de páginas web, estilos responsivos y animaciones.  
-- **Ficheros y Persistencia:** manejo de ficheros planos y de registro para guardar información.
+### Lenguajes
+
+* Java
+* JavaScript
+* SQL
+* HTML5
+* CSS3
+
+### Frameworks y herramientas
+
+* Spring Boot
+* React
+* Android Studio
+* IntelliJ IDEA
+* Git
+* GitHub
+* Docker
+* Postman
+
+### Conocimientos
+
+* Programación Orientada a Objetos
+* Diseño de aplicaciones
+* Colecciones y estructuras de datos
+* Persistencia de datos
+* APIs REST
+* Arquitectura MVC
+* Gestión de bases de datos relacionales
 
 ---
 
-## Contacto
+# Proyectos
 
-- **Email:** [carolinapozosc@gmail.com](mailto:carolinapozosc@gmail.com)  
-- **LinkedIn:** [Carolina Rodríguez](https://www.linkedin.com/in/CarolRodriguez8)  
-- **GitHub:** [CarolRodriguez8](https://github.com/CarolRodriguez8)
+## ClínicaApp
+
+Sistema de gestión clínica desarrollado en Java con una arquitectura preparada para la administración de pacientes y la futura incorporación de funcionalidades como gestión de citas, historiales clínicos y personal sanitario.
+
+**Tecnologías:** Java · SQL · Spring Boot · Docker · Git · Postman
+
+🔗 Repositorio: https://github.com/CarolRodriguez8/ClinicaApp
 
 ---
+
+## SmartTrip AI
+
+Aplicación web que utiliza inteligencia artificial para generar planes de viaje personalizados en función de las preferencias del usuario.
+
+**Tecnologías:** React · JavaScript · APIs de IA
+
+🔗 Repositorio: https://github.com/CarolRodriguez8/smarttrip-ai
+
+---
+
+## App de Notas para Android
+
+Aplicación Android para la gestión de notas con almacenamiento local y una interfaz sencilla orientada a la usabilidad.
+
+**Tecnologías:** Java · Android Studio
+
+🔗 Repositorio: https://github.com/CarolRodriguez8/app-notas-android
+
+---
+
+## Portfolio Web
+
+Sitio web personal desarrollado desde cero para presentar mi perfil profesional, tecnologías y proyectos.
+
+**Tecnologías:** HTML · CSS · JavaScript
+
+🔗 Repositorio: https://github.com/CarolRodriguez8/portfolio-web
+
+---
+
+# Actualmente
+
+En estos momentos continúo ampliando conocimientos en tecnologías del ecosistema Java y desarrollo de aplicaciones, incorporando progresivamente nuevas funcionalidades y mejores prácticas a cada proyecto.
+
+Algunas de las áreas en las que estoy profundizando son:
+
+* Spring Boot
+* Arquitecturas multicapa
+* APIs REST
+* Docker
+* Testing
+* Bases de datos
+* Buenas prácticas y patrones de diseño
+
+---
+
+# Contacto
+
+📧 **Email:** [mailto:carolinapozosc@gmail.com](mailto:carolinapozosc@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/CarolRodriguez8
+
+💻 **GitHub:** https://github.com/CarolRodriguez8
+
 
